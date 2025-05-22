@@ -1,0 +1,14 @@
+fastapi>=0.100.0
+uvicorn>=0.22.0
+pydantic>=2.0.0
+mem0ai>=0.1.101
+python-jose>=3.3.0
+passlib>=1.7.4
+python-multipart>=0.0.5
+SQLAlchemy>=2.0.0
+python-dotenv>=1.0.0
+faiss-cpu>=1.7.4   # ベクトル検索用
+supabase>=0.7.1    # Supabase認証用
+fastapi-oauth2>=0.3.0  # OAuth2サポート用
+authlib>=1.2.0     # Apple Sign In用
+httpx>=0.24.1      # 非同期HTTP要求用
